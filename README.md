@@ -9,6 +9,8 @@ This repo contains the demo code and slides for the presentation "Empowering Sof
 
 The slides can be found [here][slides-link].
 
+In case you want to try the recipes yourself, those can be found [here](./RECIPE.md).
+
 ## License
 
 All code is under MIT license.
